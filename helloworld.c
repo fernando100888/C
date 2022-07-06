@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> /*preprocessor commands*/
 
-int main()
+int main() /*main function*/
 {
-    printf("hello world");
-    return 0;
+    printf("hello world"); /*code inside the main function*/
+    return 0; /*Completion of the main function*/
 }
